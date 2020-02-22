@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SearchView_withOptionMenu</string>
+
+    <string-array name="country_name">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Antigua and Barbuda</item>
+        <item>Argentina</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Bangladesh</item>
+        <item>Belgium</item>
+        <item>Belize</item>
+        <item>Bhutan</item>
+        <item>Brazil</item>
+        <item>Bulgaria</item>
+        <item>Canada</item>
+        <item>Chile</item>
+        <item>China</item>
+        <item>Colombia</item>
+
+    </string-array>
+</resources>
